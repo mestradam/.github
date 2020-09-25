@@ -11,8 +11,8 @@ Seguir estas directrices nos ayuda a saber que usted respeta el tiempo de los de
 
 ## Reglas generales 
 
-- Garantizar la compatibilidad entre plataformas para cada cambio que se acepte. Windows, Mac, Debian, Ubuntu, Linux en general
-- Asegúrese de que el código que entra en el repositorio cumple con todos los requisitos de esta lista de comprobación: https://gist.github.com/audreyr/4feef90445b9680475f2 
+- Garantizar la compatibilidad entre plataformas para cada cambio que se acepte. Windows, Mac, Debian, Ubuntu, Linux en general.
+- Asegúrese de que el código que entra en el repositorio cumple con las reglas generales de desarrollo para cada lenguaje de programación.
 - Crear problemas (_issues_) para los cambios y mejoras importantes que desee realizar. 
 - Discutir las cosas de forma transparente y obtener comentarios de la comunidad.
 - No agregue ninguna clase al código base a menos que sea absolutamente necesario. Es mejor limitarse al uso de funciones.
